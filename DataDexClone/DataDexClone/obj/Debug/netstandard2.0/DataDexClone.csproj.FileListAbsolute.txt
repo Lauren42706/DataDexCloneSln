@@ -1,0 +1,15 @@
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\bin\Debug\netstandard2.0\DataDexClone.deps.json
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\bin\Debug\netstandard2.0\DataDexClone.dll
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\bin\Debug\netstandard2.0\DataDexClone.pdb
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\DataDexClone.csproj.AssemblyReference.cache
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\DataDexClone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\DataDexClone.AssemblyInfoInputs.cache
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\DataDexClone.AssemblyInfo.cs
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\DataDexClone.csproj.CoreCompileInputs.cache
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\DataDexClone.dll
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\refint\DataDexClone.dll
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\DataDexClone.pdb
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone\obj\Debug\netstandard2.0\ref\DataDexClone.dll
