@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "NPQBYXTSN3xx8/7/y3BlAGDuAxKl4F71nh5kFh5PiXsTfA/DlsVYlZa7gcmHB7SSNfbEzE+n/H01L8pASR4+zQ==",
+  "success": true,
+  "projectFilePath": "C:\\Xamarin\\DataDexCloneSln\\DataDexClone\\DataDexClone.iOS\\DataDexClone.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Lauren Fisher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
