@@ -627,3 +627,6 @@ C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone.Android\obj\Debug\120\stamp
 C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone.Android\obj\Debug\120\stamp\_GenerateJavaStubs.stamp
 C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone.Android\obj\Debug\120\stamp\_GeneratePackageManagerJava.stamp
 C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone.Android\obj\Debug\120\stamp\_ResolveLibraryProjectImports.stamp
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone.Android\obj\Debug\120\res\drawable\star.png
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone.Android\obj\Debug\120\res\drawable\splashscreen.xml
+C:\Xamarin\DataDexCloneSln\DataDexClone\DataDexClone.Android\obj\Debug\120\android\src\crc64744e5de449a7974a\SplashActivity.java

@@ -15,8 +15,9 @@
       <action android:name="android.media.browse.MediaBrowserService" />
     </intent>
   </queries>
-  <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/icon" android:label="DataDexClone.Android" android:theme="@style/MainTheme">
-    <activity android:name="crc64744e5de449a7974a.MainActivity" android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:exported="true" android:icon="@mipmap/icon" android:label="DataDexClone" android:theme="@style/MainTheme">
+  <application android:name="android.app.Application" android:allowBackup="true" android:appComponentFactory="androidx.core.app.CoreComponentFactory" android:debuggable="true" android:extractNativeLibs="true" android:icon="@mipmap/icon" android:label="DataDexClone.Android" android:theme="@style/NewTheme.Splash">
+    <activity android:name="crc64744e5de449a7974a.MainActivity" android:configChanges="orientation|smallestScreenSize|screenLayout|screenSize|uiMode" android:icon="@mipmap/icon" android:label="DataDexClone" android:theme="@style/MainTheme" />
+    <activity android:name="crc64744e5de449a7974a.SplashActivity" android:exported="true" android:label="SplashActivity" android:noHistory="true" android:theme="@style/NewTheme.Splash">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
